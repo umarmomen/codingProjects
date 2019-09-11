@@ -1,4 +1,4 @@
-Projects from DS100 Data Science Class, details can be found in the Jupyter Notebooks themselves.
+Projects from DS100, Principles and Techniques of Data Science. Details can be found in the Jupyter Notebooks themselves.
 
 Project 1: Trump Twitter Tweet Analysis
 
