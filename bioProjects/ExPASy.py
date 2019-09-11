@@ -86,25 +86,8 @@ def firstSeqAA(seq):
             i+=4
     return seq
 
-#def mRNAToAA1.0(x):
-    # while x[0:3] != "AUG":
-    #     if len(x) < 3:
-    #         return ''
-    #     x = x[1:]
-    # seq = ''
-    # while len(x) > 2:
-    #     aa = CodonToAA[x[0:3]]
-    #     seq += aa
-    #     if aa is 'STOP':
-    #         if (len(x)-3) < 6:
-    #             return seq
-    #         else:
-    #             seq += mRNAToAA(x[3:])
-    #     else:
-    #         x = x[3:]
-    # return seq
 
-print(mRNAToAA('GAGAUGGUCCCCGGGCCCAAAUUUUAGGGGCCCAUGUAG'))
-print(firstSeqAA(mRNAToAA('GAGAUGGUCCCCGGGCCCAAAUUUUAGGGGCCCAUGUAG')))
-print(firstAASeqfromRNA('GAGAUGGUCCCCGGGCCCAAAUUUUAGGGGCCCAUGUAG'))
-print(restSeqRNA(('GAGAUGGUCCCCGGGCCCAAAUUUUAGGGGCCCAUGUAG')))
+# print(mRNAToAA('GAGAUGGUCCCCGGGCCCAAAUUUUAGGGGCCCAUGUAG'))
+# print(firstSeqAA(mRNAToAA('GAGAUGGUCCCCGGGCCCAAAUUUUAGGGGCCCAUGUAG')))
+# print(firstAASeqfromRNA('GAGAUGGUCCCCGGGCCCAAAUUUUAGGGGCCCAUGUAG'))
+# print(restSeqRNA(('GAGAUGGUCCCCGGGCCCAAAUUUUAGGGGCCCAUGUAG')))
