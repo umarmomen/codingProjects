@@ -1,4 +1,4 @@
-The different Specs used to create the Database. Overall architecture is a B+ tree implementing various SQL join algorithms and System-R query optimization
+The different Specs from homeworks used to create the Database. Overall architecture is a B+ tree implementing various SQL join algorithms and System-R query optimization
 
 # Homework 1: SQL queries and scalable algorithms
 #### CS186, UC Berkeley, Fall 2017
