@@ -1,4 +1,4 @@
-###Projects completed from CS 61BL in 2017, details can be found at the following links:
+Projects completed from CS 61BL in 2017, details can be found at the following links:
 
 -Project 1, Cube Puzzle : https://cs61bl.org/su17/materials/proj/proj1/proj1.html
 
