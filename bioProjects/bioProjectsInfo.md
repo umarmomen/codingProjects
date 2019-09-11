@@ -3,4 +3,4 @@ It is used to convert DNA sequences to Amino Acid sequences. This tool can also 
 
 geneTrack.py is a functional model of a mendelian gene. By passing in two alleles for the gene, the program can generate iterations of offspring with predicted combination frequencies (phenotypes and genotypes), and offspring can be selected to create successive crosses. I started making this tool to do my bio homework faster but it turned out to be an interesting programming exercise that got me interested in computational bio.
 
-There are other more data-driven comp-bio projects I have had a chance to work on but unfortunately they belong to the respective labs I worked in and I can't share them
+There are other more advanced data-driven comp-bio projects I have had a chance to work on but unfortunately they belong to the respective labs I worked in and I can't share them
