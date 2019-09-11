@@ -3,7 +3,7 @@ Projects and drafts which aren't proprietary (but some have been used as foundat
 
 Folder/Course Descriptions and Contents:
 
-bioProjects: Computational Bio Projects
+BioProjects: Computational Bio Projects
   - ExPASy Translate Tool
   - Mendelian Genetics Offspring Generator
 
