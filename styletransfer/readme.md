@@ -1,6 +1,6 @@
-###A place for my style transfer deep learning exploration
+**A place for my style transfer deep learning exploration**
 
-##Generated samples from 'keras net' (VGG19 architecture)
+**Generated samples from 'keras net' (VGG19 architecture)**
 
 ![sample1](https://github.com/umarmomen/codingProjects/blob/master/styletransfer/images/Screen%20Shot%202019-12-06%20at%204.43.44%20PM.png)
 
