@@ -18,3 +18,6 @@ CS186: Databases
 DS100: Principles and Techniques of Data Science
   - Trump Twitter Tweet Analysis
   - NYC Taxi Trip Duration Prediction Model 
+
+StyleTransfer: building style transfer neural net architectures
+  - VGG19 based style transfer neural net ('keras net')
